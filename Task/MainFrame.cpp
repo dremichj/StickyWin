@@ -30,7 +30,7 @@ void MainFrame::CreateControls()
 	//text = new wxTextCtrl(panel,wxID_ANY, "Hey there", wxPoint(100,150), wxSize(-1,-1));
 
 	// Headline text
-	headlineText = new wxStaticText(panel, wxID_ANY, "SticD Note", wxPoint(0, 22), wxSize(400, -1),
+	headlineText = new wxStaticText(panel, wxID_ANY, "StickyWin", wxPoint(0, 22), wxSize(400, -1),
 		wxALIGN_CENTER_HORIZONTAL);
 	headlineText->SetFont(headlineFont);
 
