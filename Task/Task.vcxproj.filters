@@ -32,12 +32,6 @@
     <None Include="Task.h">
       <Filter>Header Files</Filter>
     </None>
-    <None Include="index.html">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="style.css">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainFrame.h">
@@ -49,10 +43,5 @@
     <ClInclude Include="NoteFrame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="image.jpg">
-      <Filter>Resource Files</Filter>
-    </Image>
   </ItemGroup>
 </Project>

@@ -154,17 +154,12 @@
     <ClCompile Include="Task.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="index.html" />
-    <None Include="style.css" />
     <None Include="Task.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
     <ClInclude Include="MainFrame.h" />
     <ClInclude Include="NoteFrame.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="image.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
